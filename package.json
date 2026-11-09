@@ -1,0 +1,9 @@
+{
+  "name": "flat-sketch-generator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"dev":"vite", "build":"vite build", "preview":"vite preview", "start":"node server/index.js"},
+  "dependencies": {"react":"^18.3.1","react-dom":"^18.3.1","lucide-react":"^0.468.0","heic2any":"^0.0.4","express":"^4.21.2","dotenv":"^16.4.7"},
+  "devDependencies": {"vite":"^6.0.5","typescript":"^5.7.3","@vitejs/plugin-react":"^4.3.4","@types/react":"^18.3.18","@types/react-dom":"^18.3.5","@types/node":"^22.10.5"}
+}
