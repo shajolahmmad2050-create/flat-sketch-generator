@@ -140,19 +140,21 @@ export default function App() {
             </div>
             <div>
               <h1 className="text-xl font-bold tracking-tight">Flat Sketch Generator</h1>
-              <p className="text-xs text-red-600 font-medium">Standard MH Group | Design & Product Development</p>
-            </div>
-          </div>
-          <div className="flex flex-col items-start sm:items-end text-left sm:text-right hidden sm:flex">
-            <span className="text-[10px] text-neutral-400 font-bold uppercase tracking-wider mb-0.5">
-              System exclusively designed by Fimoon Sunbi Ridoy
-            </span>
-            <div className="text-sm font-medium text-neutral-500">
-              The Civil Engineers Woven Limited
-            </div>
-          </div>
-        </div>
-      </header>
+<p className="text-xs font-medium" style={{ color: "#003366" }}>
+  Renaissance Designs Limited | R&D Department
+</p>
+</div>
+</div>
+<div className="flex flex-col items-start sm:items-end text-left sm:text-right hidden sm:flex">
+  <span className="text-[10px] font-bold uppercase tracking-wider mb-0.5" style={{ color: "#003366" }}>
+    DEVELOPED BY SAJOL AHMMED
+  </span>
+  <div className="text-sm font-medium text-neutral-500">
+    RENAISSANCE DESIGNS LIMITED | R&D DEPARTMENT
+  </div>
+</div>
+</div>
+</header>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 py-8 grid grid-cols-1 lg:grid-cols-12 gap-8">
         
